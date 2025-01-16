@@ -2,9 +2,13 @@
 
 <h1 align="center">
   <a href="https://blog.anheyu.com/">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=你好.;console.log(%22Hello%EF%BC%8Cworld%22)" style="background-image: url('https://your-image-url.com/background.jpg'); background-size: cover; padding: 20px;">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=你好.;console.log(%22Hello%EF%BC%8Cworld%22)&font=Fira%20Code" 
+         style="background-image: url('https://github.com/heartyuui/heartyuui/blob/main/src/type_background.png?raw=true'); 
+                background-size: cover; 
+                padding: 20px;">
   </a>
 </h1>
+
 
 
 
