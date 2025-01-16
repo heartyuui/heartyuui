@@ -1,3 +1,4 @@
+<!-- 打字效果 -->
 
 <div align="center">
     <a href="https://blog.sunguoqi.com/">
@@ -7,19 +8,18 @@
 
 <!-- 仓库状态统计 -->
 
-## 🌠 [Coding Time](https://wakatime.com/@Younger)
+## 🌠 Coding Time
 
 <div align="center">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=heartyuui&theme=calm&show_icons=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younger-1&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
 </div>
 
-
+<!-- 关于我 -->
 
 ##  🙋 Hello
 <div align="center">
 <table>
-  
 <tr><td>
 
 ### 🤺 About Me
@@ -32,6 +32,8 @@
 <p>&emsp;&emsp;<strong>I think failure is very important. Only in failure can you learn real things. Failure is the prerequisite for success.</strong></p>
 
 </td></tr>
+
+<!-- 收藏夹/喜欢 -->
 
 <tr><td>
 
@@ -60,16 +62,17 @@
   - 计划前往：上海，台湾
 
 </td></tr>
-
 </table>
 </div>
+
+<!-- Game,Skill,ProgLang -->
+
 <table>
 <tr>
   <td valign="top" width="33%">
-
-  <div align="center">
+    <div align="center">
     Game
-  </div>
+    </div>
   <div align="center">  
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/heartyuui/heartyuui/assets/images/icon/Genshin_Impact.webp" alt="Genshin_Impact" height="50" />  
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/heartyuui/heartyuui/assets/images/icon/Cities_Skylines.webp" alt="Cities_Skyline" height="50" />  
@@ -78,13 +81,11 @@
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/heartyuui/heartyuui/assets/images/icon/CrossFire.webp" alt="CrossFire" height="50" />
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/heartyuui/heartyuui/assets/images/icon/call_of_Duty.webp" alt="call_of_Duty" height="50" />
   </div>
-
-  </td>
+</td>
   <td valign="top" width="33%">
-
-  <div align="center">
+    <div align="center">
     Skill
-  </div>
+    </div>
   <div align="center">  
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/heartyuui/heartyuui/assets/images/icon/HTML.webp" alt="HTML" height="50" />  
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/heartyuui/heartyuui/assets/images/icon//Linux.webp" alt="Linux" height="50" />  
@@ -93,13 +94,11 @@
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/heartyuui/heartyuui/assets/images/icon/Nginx.webp" alt="Nginx" height="50" />  
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/heartyuui/heartyuui/assets/images/icon/Redis.webp" alt="Redis" height="50" /> 
   </div>
-
-  </td>
+</td>
   <td valign="top" width="33%">
-
-  <div align="center">
+    <div align="center">
     ProgLang
-  </div>
+    </div>
   <div align="center">  
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/heartyuui/heartyuui/assets/images/icon/C.webp" alt="C" height="50" />  
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/heartyuui/heartyuui/assets/images/icon/JavaScript.webp" alt="JavaScript" height="50" />  
@@ -108,25 +107,7 @@
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/heartyuui/heartyuui/assets/images/icon/Go.webp" alt="Go" height="50" /> 
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/heartyuui/heartyuui/assets/images/icon/PHP.webp" alt="PHP" height="50" />  
   </div>
-
-  </td>
+</td>
 </tr>
 </table>
-
 <br/>
-
-
-<!--
-**heartyuui/heartyuui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
