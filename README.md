@@ -39,7 +39,7 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/heartyuui/heartyuui/assets/images/YuShuxin.webp" />
 
-- [虞书欣](https://www.arcadyan.com/zh-hans/about-us/arcadyan/compal-intro/)
+- [虞书欣](https://www.bing.com/search?q=%e8%99%9e%e4%b9%a6%e6%ac%a3&qs=SC&pq=yu%27shu%27xin&sc=12-10&cvid=52E9B18ED433445CB3E99D763E5B6A3C&FORM=BESBTB&sp=1&lq=0&ensearch=1)
 
   - ⭐️⭐️⭐️⭐️⭐️ &nbsp;永夜星河，祈今朝，云之羽，苍兰诀
   - ⭐️⭐️⭐️⭐️ &nbsp;&emsp;&nbsp; 两个人的小森林，月光变奏曲
@@ -47,14 +47,14 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/heartyuui/heartyuui/assets/images/Jay_Chou.webp" />
 
-- [周杰伦](https://www.tuhuimap.com/)
+- [周杰伦](https://www.bing.com/search?q=%e5%91%a8%e6%9d%b0%e4%bc%a6&qs=SS&pq=%e5%91%a8&sk=SS2&sc=12-1&cvid=2038513A2F574BADA00832D5A49BFBFC&FORM=QBRE&sp=3&lq=0)
   - ⭐️⭐️⭐️⭐️⭐️ &nbsp;粉色海洋，手写的从前，甜甜的，反方向的钟
   - ⭐️⭐️⭐️⭐️ &nbsp;&emsp;&nbsp; 晴天，稻香，枫，兰亭序，红尘客栈，说好的幸福呢
   - 初次聆听：告白气球 &emsp; 📌 the year 2016
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/heartyuui/heartyuui/assets/images/Beijing.webp" />
 
-- [中国](https://www.nio.cn/)
+- [中国](https://www.bing.com/search?q=%E4%B8%AD%E5%9B%BD&qs=n&form=QBRE&sp=-1&lq=0&pq=z%E4%B8%AD%E5%9B%BD&sc=17-3&sk=&cvid=665EA76448B449D3994B60A84EB9A0A0&ghsh=0&ghacc=0&ghpl=)
   - ⭐️⭐️⭐️⭐️⭐️ &nbsp;北京，香港，深圳，重庆，成都，湖北，云南，西安
   - ⭐️⭐️⭐️⭐️ &nbsp;&emsp;&nbsp; 安徽，江苏，澳门
   - 计划前往：上海，台湾
