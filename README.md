@@ -52,7 +52,7 @@
 - [周杰伦](https://www.bing.com/search?q=%e5%91%a8%e6%9d%b0%e4%bc%a6&qs=SS&pq=%e5%91%a8&sk=SS2&sc=12-1&cvid=2038513A2F574BADA00832D5A49BFBFC&FORM=QBRE&sp=3&lq=0)
   - ⭐️⭐️⭐️⭐️⭐️ &nbsp;粉色海洋，手写的从前，甜甜的，反方向的钟
   - ⭐️⭐️⭐️⭐️ &nbsp;&emsp;&nbsp; 晴天，稻香，枫，兰亭序，红尘客栈，说好的幸福呢
-  - 初次聆听：告白气球 &emsp; 📌 the year 2016
+  - 初次聆听：告白气球 &emsp; 📌 2016年
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/heartyuui/heartyuui/assets/images/Beijing.webp" />
 
