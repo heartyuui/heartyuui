@@ -7,7 +7,7 @@
 
 <!-- 仓库状态统计 -->
 
-## 🌠[Coding Time](https://wakatime.com/@Younger)
+## 🌠 [Coding Time](https://wakatime.com/@Younger)
 
 <div align="center">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=heartyuui&theme=calm&show_icons=true" />
