@@ -15,7 +15,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younger-1&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
 </div>
 
-<!-- 关于我 -->
 
 ##  🙋 Hello
 <div align="center">
