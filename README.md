@@ -6,7 +6,6 @@
     </a>
   </div>
 
-<!-- 仓库状态统计 -->
 
 ## 🌠 Coding Time
 
@@ -14,8 +13,6 @@
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=heartyuui&theme=calm&show_icons=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younger-1&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
 </div>
-
-<!-- 关于我 -->
 
 ##  🙋 Hello
 <div align="center">
@@ -33,7 +30,6 @@
 
 </td></tr>
 
-<!-- 收藏夹/喜欢 -->
 
 <tr><td>
 
