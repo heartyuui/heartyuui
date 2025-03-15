@@ -14,6 +14,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younger-1&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
 </div>
 
+![Alt](https://repobeats.axiom.co/api/embed/17b6b62b7d52219a001e369a7a043757011851ee.svg "Repobeats analytics image")
+
 ##  🙋 Hello
 <div align="center">
 <table>
