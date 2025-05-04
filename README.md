@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=heartyuui&show_icons=true&hide_border=true&icon_color=000&title_color=000&show=prs_merged_percentage&include_all_commits=true&custom_title=Meow~&count_private=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mlgmxyysd&show_icons=true&hide_border=true&icon_color=000&title_color=000&show=prs_merged_percentage&include_all_commits=true&custom_title=Meow~&count_private=true">
 
 # HEARTYUUI 🚀
 
@@ -7,7 +7,7 @@
 💬 a.k.a. Classmate Cao
 > ⚡ A high school student passionate about programming, network technology and algorithms.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=heartyuui&hide_border=true&title_color=000&layout=compact">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlgmxyysd&hide_border=true&title_color=000&layout=compact">
 
 - A college student 🧑‍🎓
 - Chinese / 18 y.o. / [16personalities](https://www.16personalities.com/enfj-personality) Boy
