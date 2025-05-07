@@ -1,0 +1,22 @@
+name: Notify Feishu
+
+on:
+  push:
+  release:
+    types: [published]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Send message to Feishu
+      run: |
+        curl -X POST \
+          -H "Content-Type: application/json" \
+          -d '{
+                "msg_type": "text",
+                "content": {
+                  "text": "🚀 项目有新更新！\n仓库: ${{ github.repository }}\n事件: ${{ github.event_name }}\n提交人: ${{ github.actor }}\n详情: https://github.com/${{ github.repository }}"
+                }
+              }' \
+          ${{ secrets.FEISHU_WEBHOOK }}
